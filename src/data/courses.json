@@ -1,0 +1,400 @@
+[
+    {
+        "course": "Matematikk 8. trinn",
+        "finished": {
+            "status": false,
+            "scheduled": "2025-2026"
+        },
+        "grade": "8. trinn",
+        "categories": [
+            {
+                "name": "Tallforståelse og tallregning",
+                "videos": [
+                    {
+                        "title": "Oversikt over seksjonen",
+                        "link": "c75CC1QlQ1o",
+                        "description": {
+                            "links": [
+                                {
+                                    "name": "Kompetansemål matematikk 8. trinn",
+                                    "link": "https://www.udir.no/lk20/mat01-05/kompetansemaal-og-vurdering/kv16?lang=nob"
+                                },
+                                {
+                                    "name": "Enda en god res. (NDLA)",
+                                    "link": "https://ndla.no/f/matematikk-1t/be2ae5a11bba"
+                                },
+                                {
+                                    "name": "Enda en god res. (UDL)",
+                                    "link": "https://udl.no/"
+                                }
+                            ],
+                            "text": "Denne videoen informerer om:\n- Kompetansemål seksjonen går igjennom\n- Legger grunnlaget for all matematikk på ungdomsskolen"
+                        }
+                    },
+                    {
+                        "title": "Forkunnskaper:\ntallgrupper (heltall (odde- & partall) & desimaltall) & siffer plasser",
+                        "link": "c75CC1QlQ1o"
+                    },
+                    {
+                        "title": "Definisjon:\nde fire regneoperasjonene",
+                        "link": "c75CC1QlQ1o"
+                    },
+                    {
+                        "title": "Motsatte regneoperasjoner",
+                        "link": "c75CC1QlQ1o"
+                    },
+                    {
+                        "title": "Potenser, grunntall & eksponenter",
+                        "link": ""
+                    },
+                    {
+                        "title": "Parenteser og deres notasjon",
+                        "link": ""
+                    },
+                    {
+                        "title": "Regnerekkefølgen (PEMDAS)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Regnealgoritmer:\naddisjon (1/4)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Regnealgoritmer:\nsubtraksjon (2/4)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Regnealgoritmer:\nmultiplikasjon (3/4)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Regnealgoritmer:\ndivisjon (4/4)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Negative tall:\nmultiplikasjon & divisjon (1/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Negative tall:\naddisjon & subtraksjon (2/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Negative tall:\noversikt (3/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Brøk:\nintroduksjon (1/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Brøk:\naddisjon & subtraksjon (2/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Brøk:\nmultiplikasjon & divisjon (3/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Desimaler i regnealgoritmer:\naddisjon & subtraksjon (1/2)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Desimaler i regnealgoritmer:\nmultiplikasjon & divisjon (2/2)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Kvadratrot & kvadrattall",
+                        "link": ""
+                    },
+                    {
+                        "title": "Faktorisering av tall",
+                        "link": ""
+                    },
+                    {
+                        "title": "Primtall & primtallsfaktorisering",
+                        "link": ""
+                    },
+                    {
+                        "title": "Forkorting av brøker",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utskrivbar PDF:\nRessurs for «Tallforståelse & tallregning», 8. trinn",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "Algebra",
+                "videos": [
+                    {
+                        "title": "Algebra vs tallregning:\nlikt, ulikt, variabler, ledd & gangetegn",
+                        "link": ""
+                    },
+                    {
+                        "title": "Grunnleggende algebra:\naddisjon & subtraksjon (1/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Grunnleggende algebra:\nmultiplikasjon, potenser & divisjon (2/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Grunnleggende algebra:\nforklare algebraiske uttrykk og begreper (3/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utlede potensreglene:\nmultiplikasjon av potenser med samme grunntall (1/2)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utlede potensreglene:\ndivisjon av potenser med samme grunntall (2/2)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Den distributive lov",
+                        "link": ""
+                    },
+                    {
+                        "title": "Kvadratrøtter av potenser med variabler",
+                        "link": ""
+                    },
+                    {
+                        "title": "Representere forhold mellom tall i situasjoner (introduksjonsvis)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utskrivbar PDF:\nRessurs for «Algebra», 8. trinn",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "Likninger",
+                "videos": [
+                    {
+                        "title": "Grunnleggende:\nlikhetsprinsippet & definisjon av likning",
+                        "link": ""
+                    },
+                    {
+                        "title": "Løse en likning:\nflytte-bytte (1/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Løse en likning:\ndele på koeffisient (2/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Løse en likning:\nlikninger med brøk (3/3)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Oppskrift på å løse likninger",
+                        "link": ""
+                    },
+                    {
+                        "title": "Tekstoppgaver og likninger",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utskrivbar PDF:\nRessurs for «Likninger», 8. trinn",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "Geometri",
+                "videos": [
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "Definisjon:\nGeometri, punkter, linjer, linjestykker, lengder, benevninger & vinkler",
+                        "link": ""
+                    },
+                    {
+                        "title": "Introduksjon",
+                        "link": ""
+                    },
+                    {
+                        "title": "Introduksjon til former",
+                        "link": ""
+                    },
+                    {
+                        "title": "Firkanter (kvadrat, rektangel, Parallellogram, rombe, trapes & drage)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Trekanter (etter vinkler: rett-, spiss og stumpvinklet, etter sider: likesidet, likebeint og ulikesidet trekanter)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Sirkel",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "Koordinatsystem",
+                "videos": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "Funksjoner",
+                "videos": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "Programmering",
+                "videos": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ]
+            },
+            {
+                "name": "Matematisk kommunikasjon og føring",
+                "videos": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course": "Matematikk 9. trinn",
+        "finished": {
+            "status": false,
+            "scheduled": "2026"
+        },
+        "grade": "9. trinn",
+        "categories": []
+    },
+    {
+        "course": "Matematikk 10. trinn",
+        "finished": {
+            "status": false,
+            "scheduled": "2026"
+        },
+        "grade": "10. trinn",
+        "categories": [
+            {
+                "name": "Repetisjon & eksamen",
+                "videos": [
+                    {
+                        "title": "Hvordan bruke denne seksjonen",
+                        "link": ""
+                    },
+                    {
+                        "title": "Skriftlig eksamen",
+                        "link": ""
+                    },
+                    {
+                        "title": "Muntlig-praktisk eksamen",
+                        "link": ""
+                    },
+                    {
+                        "title": "Tallforståelse & tallregning\n(PEMDAS, regneoperasjoner, regnealgoritmer og motsatte regneoperasjoner)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Tallforståelse & tallregning\n(negative tall, potenser, grunntall, eksponenter)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Tallforståelse & tallregning\n(brøk, prosent, desimaler)",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "course": "T-matematikk",
+        "finished": {
+            "status": false,
+            "scheduled": "2026/2027"
+        },
+        "grade": "vg1",
+        "categories": []
+    },
+    {
+        "course": "R1-matematikk",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg2",
+        "categories": []
+    },
+    {
+        "course": "R2-matematikk",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg3",
+        "categories": []
+    }
+]

@@ -1,0 +1,10 @@
+ASAPMessage:
+    - Nettsiden er under utvikling. Innholdet er foreløpig svært begrenset og ustabilt.
+
+GeneralMessage:
+    - Nettsiden er under utvikling. Innholdet er foreløpig svært begrenset og ustabilt.
+
+popupExpireTimeInDays:
+    - 0.5 (en halv dag)
+    - 1 (1 dag)
+    - 0.00017361111 (ca. 15 sek)

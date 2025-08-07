@@ -1,0 +1,20 @@
+[
+    {
+        course
+        finished
+        grade
+        course_id
+        categories: [
+            {
+                name
+                videos: [
+                    {
+                        title
+                        video_id
+                        link
+                    }
+                ]
+            }
+        ]
+    }
+]

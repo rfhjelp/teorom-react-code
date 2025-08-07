@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teorom/static/css/main.80c99459.css",
+    "main.js": "/teorom/static/js/main.e4b9d157.js",
+    "static/media/Vertical_logo.png": "/teorom/static/media/Vertical_logo.85be6e372c1c16a461c9.png",
+    "static/media/Horizontal_logo.png": "/teorom/static/media/Horizontal_logo.7b6aa308cab8ccae343e.png",
+    "index.html": "/teorom/index.html",
+    "main.80c99459.css.map": "/teorom/static/css/main.80c99459.css.map",
+    "main.e4b9d157.js.map": "/teorom/static/js/main.e4b9d157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80c99459.css",
+    "static/js/main.e4b9d157.js"
+  ]
+}

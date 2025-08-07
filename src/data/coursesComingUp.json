@@ -1,0 +1,110 @@
+[
+    {
+        "course": "Naturfag 8. trinn",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "8. trinn",
+        "categories": []
+    },
+    {
+        "course": "Naturfag 9. trinn",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "9. trinn",
+        "categories": []
+    },
+    {
+        "course": "Naturfag 10. trinn",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "10. trinn",
+        "categories": []
+    },
+    {
+        "course": "Naturfag vg1",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg1",
+        "categories": []
+    },
+    {
+        "course": "R1-matematikk",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg2",
+        "categories": []
+    },
+    {
+        "course": "R2-matematikk",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg3",
+        "categories": []
+    },
+    {
+        "course": "Fysikk 1",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg2",
+        "categories": []
+    },
+    {
+        "course": "Fysikk 2",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg3",
+        "categories": []
+    },
+    {
+        "course": "Kjemi 1",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg2",
+        "categories": []
+    },
+    {
+        "course": "Kjemi 2",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg3",
+        "categories": []
+    },
+    {
+        "course": "Informasjonsteknologi (IT) 1",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg2",
+        "categories": []
+    },
+    {
+        "course": "Informasjonsteknologi (IT) 2",
+        "finished": {
+            "status": false,
+            "scheduled": "Usikkert – kan ta flere/mange år"
+        },
+        "grade": "vg3",
+        "categories": []
+    }
+]

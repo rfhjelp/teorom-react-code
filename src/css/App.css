@@ -1,0 +1,445 @@
+/*------------------------------------------------------NOT FOUND 404*/
+#not-found {
+    color: crimson;
+    text-align: center;
+    margin: 20px auto;
+    width: 200px;
+}
+
+/*------------------------------------------------------HOMEPAGE*/
+#homepage {
+    margin: 10px auto;
+    width: 60%;
+    display: grid;
+    grid-template-columns: 0.8fr 1fr;
+}
+
+#homepage h1 {
+    font-size: 2.5rem;
+}
+
+#homepage-introduction div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#intro-video {
+    margin: 1.7rem auto 0;
+    width: 95%;
+    aspect-ratio: 16/9;
+    border-radius: 25px;
+    border: black solid 1px;
+}
+
+.start-now-hp {
+    background: #354d4d;
+    background: linear-gradient(133deg, rgba(53, 77, 77, 1) 0%, rgba(56, 97, 97, 1) 50%, rgba(73, 138, 138, 1) 100%);
+    color: white;
+    text-decoration: unset;
+    font-weight: 500;
+    outline: 2px solid black;
+    border: 2px solid white;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
+.start-now-hp-parent {
+    width: fit-content;
+    margin: 1.7rem auto;
+}
+
+.start-now-hp:hover {
+    border: 1px solid white;
+    background: #354d4d;
+    opacity: 0.8;
+    background: linear-gradient(313deg, rgba(53, 77, 77, 1) 0%, rgba(56, 97, 97, 1) 50%, rgba(73, 138, 138, 1) 100%);
+}
+
+.start-now-hp:active {
+    border: unset;
+    opacity: 0.8;
+    background: #354d4d;
+    background: radial-gradient(circle, rgba(53, 77, 77, 1) 0%, rgba(56, 97, 97, 1) 50%, rgba(73, 138, 138, 1) 100%);
+    outline: 1px solid darkgray;
+}
+
+#homepage-image {
+    display: flex;
+    justify-content: center;
+}
+
+#homepage-image img {
+    max-height: 75vh;
+    border-radius: 20px;
+    border: 2px black solid;
+}
+
+#homepage-image img:hover {
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+#homepage-image img:active {
+    opacity: 0.5;
+    cursor: pointer;
+    background-color: #354d4d;
+}
+
+.text-div {
+    margin-bottom: 1.7rem;
+}
+
+/*------------------------------------------------------SEARCH / SØK*/
+#search-results {
+    width: 100%;
+}
+
+#result {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+#search {
+    width: 50%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+#search-table,
+.search-tr th,
+.search-tr td {
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+    padding: 7px 10px;
+}
+
+.search-tr th {
+    text-align: start;
+}
+
+.search-tr-name {
+    color: darkblue;
+}
+
+.search-tr-res:hover {
+    background-color: rgba(231, 231, 231, 0.5);
+    cursor: pointer;
+}
+
+.search-tr-res:active {
+    background-color: rgba(189, 189, 189, 0.5);
+    cursor: unset;
+}
+
+#search-table {
+    width: 90%;
+}
+
+#trinn-th {
+    width: 20%;
+}
+
+#search-form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+#search-form input {
+    font-size: 1em;
+    width: 75%;
+    padding: 5px 7px;
+    border-radius: 7px;
+    border: 1px solid black;
+}
+
+#search-form input:focus {
+    border: 2px solid black;
+}
+
+/*------------------------------------------------------ALL COURSES OVERVIEW / FAG*/
+#courses-overview {
+    width: 50%;
+    padding: 10px;
+    margin: 5px auto;
+}
+
+.course-row:hover {
+    background-color: rgba(231, 231, 231, 0.5);
+    cursor: pointer;
+}
+
+.course-row:active {
+    background-color: rgba(189, 189, 189, 0.5);
+    cursor: unset;
+}
+
+.course-row .course-name {
+    color: darkblue;
+}
+
+#courses-overview-table,
+#courses-overview-table th,
+#courses-overview-table td {
+    border-bottom: 1px solid black;
+    text-align: start;
+    border-collapse: collapse;
+}
+
+#courses-overview-table {
+    width: 100%;
+}
+
+#courses-overview-table th,
+#courses-overview-table td {
+    padding: 10px;
+}
+
+/*------------------------------------------------------SPESIFIC COURSE / SINGLE COURSE*/
+#single-course-view {
+    width: 80%;
+    margin: 15px auto;
+
+    display: grid;
+    grid-template-columns: 8fr 2fr;
+    gap: 20px;
+}
+
+#video-player iframe {
+    width: 100%;
+    max-height: 90vh;
+    aspect-ratio: 16 / 9;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+#video-list {
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 15px;
+    max-width: 300px;
+    max-height: 80vh;
+    width: 100%;
+    overflow-y: auto;
+}
+
+#video-info {
+    margin-top: 5px;
+    width: 100%;
+}
+
+#video-info-top {
+    width: 100%;
+    gap: 5px;
+    display: grid;
+    grid-template-columns: auto min-content;
+    grid-template-rows: auto min-content;
+}
+
+#description {
+    width: 100%;
+}
+
+#video-info-top div {
+    display: flex;
+    gap: 10px;
+    justify-content: right;
+    align-items: start;
+}
+
+#video-info-top button {
+    box-sizing: border-box;
+    appearance: none;
+    width: min-content;
+    text-align: center;
+    padding: 5px 10px;
+    outline: none;
+    border: 1px solid black;
+    color: black;
+    border-radius: 5px;
+    min-height: 38.5px;
+}
+
+#video-info-top button span {
+    display: inline-flex;
+    white-space: nowrap;
+    width: min-content;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+#video-info div button:hover {
+    cursor: pointer;
+    opacity: .9;
+}
+
+#video-info div button:active {
+    opacity: .5;
+    cursor: unset;
+}
+
+.category-overview {
+    border-radius: 5px;
+    background-color: lightgray;
+    border: solid 1px black;
+    font-size: 1.1em;
+    margin-top: 5px;
+}
+
+.video-amount-per-category {
+    text-align: center;
+}
+
+.spesific-video-sidemenu {
+    padding: 7px 7px 7px 5px;
+    border-top: 1px black solid;
+    border-radius: 0 0 5px 5px;
+    font-size: 1.03em;
+}
+
+.spesific-video-sidemenu a {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: min-content auto;
+    color: black;
+    text-decoration: none;
+}
+
+.spesific-video-sidemenu:hover,
+.category:hover {
+    cursor: pointer;
+    opacity: 0.75;
+}
+
+.spesific-video-sidemenu:active,
+.category:active {
+    cursor: unset;
+    opacity: 0.5;
+}
+
+.category {
+    display: grid;
+    grid-template-columns: min-content auto 1fr;
+    gap: 7px;
+    align-items: center;
+}
+
+.category> :nth-child(3) {
+    justify-self: end;
+}
+
+.category div p {
+    font-size: 0.7em;
+}
+
+.category div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    margin: 2px 2px 2px 0;
+}
+
+/*------------------------------------------------------OTHER*/
+.error {
+    color: crimson;
+}
+
+/*------------------------------------------------------Media queries*/
+
+@media (max-width: 1850px) {
+    #single-course-view {
+        width: 85%;
+        grid-template-columns: 4fr 1fr;
+    }
+}
+
+@media (max-width: 1450px) {
+    #single-course-view {
+        width: 85%;
+        grid-template-columns: 45fr 14fr;
+    }
+}
+
+@media (max-width: 1227px) {
+
+    /*------------------------------------------------------NOT FOUND 404*/
+    /*------------------------------------------------------HOMEPAGE*/
+    #homepage {
+        margin: 10px auto;
+        width: 70%;
+        display: grid;
+        grid-template-columns: unset;
+        grid-template-rows: auto;
+    }
+
+    /*------------------------------------------------------SEARCH / SØK*/
+    /*------------------------------------------------------ALL COURSES OVERVIEW / FAG*/
+    /*------------------------------------------------------SPESIFIC COURSE / SINGLE COURSE*/
+    #single-course-view {
+        width: 85%;
+        margin: 15px auto;
+
+        display: grid;
+        grid-template-columns: unset;
+        grid-template-rows: 1fr auto;
+        gap: 20px;
+    }
+
+    #video-list {
+        width: 50%;
+        margin: 0 auto;
+        max-height: 550px;
+    }
+
+    /*------------------------------------------------------OTHER*/
+
+}
+
+@media (max-width: 767px) {
+
+    /*------------------------------------------------------NOT FOUND 404*/
+    /*------------------------------------------------------HOMEPAGE*/
+    /*------------------------------------------------------SEARCH / SØK*/
+    #search {
+        width: 90%;
+    }
+
+    /*------------------------------------------------------ALL COURSES OVERVIEW / FAG*/
+    #courses-overview {
+        width: 90%;
+    }
+
+    /*------------------------------------------------------SPESIFIC COURSE / SINGLE COURSE*/
+    #video-list {
+        width: 100%;
+    }
+
+    #single-course-view {
+        width: 95%;
+    }
+
+    #video-info-top {
+        grid-template-columns: unset;
+        grid-template-rows: auto auto;
+    }
+
+    #video-info-top div,
+    #video-info-top h1 {
+        justify-content: center;
+        text-align: center;
+    }
+
+    /*------------------------------------------------------OTHER*/
+}

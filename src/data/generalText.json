@@ -1,0 +1,22 @@
+{
+    "ASAPMessage": "",
+    "GeneralMessage": "Nettsiden er under utvikling. Innholdet er foreløpig svært begrenset og ustabilt.",
+    "popupExpireTimeInDays": 0.5,
+    "homepage": {
+        "meetTeorom": "Teorom er en nettbasert realfagsressurs for både ungdomsskole- og videregåendeelever. Inspirasjonen til nettstedet fikk jeg fra Eddio Woo, en australsk lærer mest kjent for sin matematikkundervisning. Da jeg hørte at mange strever med matematikk, ønsket jeg å gjøre noe med det. Målet mitt er å hjelpe alle som trenger det og å formidle mer enn bare matematikk når den tid kommer.",
+        "whyTeorom": [
+            "Gradvis oppbygging",
+            "Varierte eksempler for å dekke bredde",
+            "Forståelse og innsikt framfor blind aksept",
+            "Tydelig struktur for å henge med lettere",
+            "Repetisjons seksjoner for å kjapt gå igjennom emner før prøver",
+            "Alt er gratis – for alltid!"
+        ]
+    },
+    "peopleContributing": [
+        {
+            "name": "Andreas",
+            "link": "https://www.instagram.com/andreasthealien?igsh=MTBneGhnaGtoejBsZA%3D%3D&utm_source=qr"
+        }
+    ]
+}

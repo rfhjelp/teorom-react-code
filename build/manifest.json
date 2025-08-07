@@ -1,0 +1,15 @@
+{
+  "short_name": "Teorom",
+  "name": "Teorom",
+  "icons": [
+    {
+      "src": "Square_logo.png",
+      "sizes": "400x400",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "minimal-ui",
+  "theme_color": "#94b9ff",
+  "background_color": "#ffffff"
+}
