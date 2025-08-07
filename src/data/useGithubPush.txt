@@ -16,4 +16,6 @@ Download files (into empty folder):
 
 Update files (folder):
     1. git checkout main       # switch to the branch you want to update
+
+    1. Maybe: git clean -fd
     2. git pull origin main    # fetch & merge the latest commits from GitHub
