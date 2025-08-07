@@ -1,0 +1,7 @@
+Update files:
+    1. Add all files (make sure .gitignore includes: "node_modules/") (git add *)
+    2. Now commit everything (git commit -m "SHORT COMMIT TEXT")
+    3. Now push it to the website (git push -u origin main)
+
+Download files:
+    1. 
