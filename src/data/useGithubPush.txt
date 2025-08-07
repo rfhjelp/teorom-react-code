@@ -1,7 +1,19 @@
-Update files:
+How i added it:
+    1. git init
+    2. git remote add origin https://github.com/rfhjelp/teorom-react-code.git
+    3. git remote set-url origin https://github.com/rfhjelp/teorom-react-code.git
+    4. git branch -M main
+
+Update files (website):
     1. Add all files (make sure .gitignore includes: "node_modules/") (git add *)
     2. Now commit everything (git commit -m "SHORT COMMIT TEXT")
     3. Now push it to the website (git push -u origin main)
 
-Download files:
-    1. 
+Download files (into empty folder):
+    1. git init
+    2. git remote add origin https://github.com/rfhjelp/teorom-react-code.git
+    3. git pull origin main
+
+Update files (folder):
+    1. git checkout main       # switch to the branch you want to update
+    2. git pull origin main    # fetch & merge the latest commits from GitHub
