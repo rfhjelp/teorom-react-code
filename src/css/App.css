@@ -249,6 +249,7 @@
     width: 100%;
 }
 
+
 #video-info-top div {
     display: flex;
     gap: 10px;
@@ -256,7 +257,7 @@
     align-items: start;
 }
 
-#video-info-top button {
+#video-info-top button, #toggle-description {
     box-sizing: border-box;
     appearance: none;
     width: min-content;
@@ -267,6 +268,20 @@
     color: black;
     border-radius: 5px;
     min-height: 38.5px;
+    font-size: 1.05em;
+}
+
+#toggle-description {
+    margin: 10px auto;
+    min-width: 150px;
+    display: flex;
+    justify-self: center;
+    min-height: unset;
+}
+
+#toggle-description span {
+    width: 100%;
+    text-align: center;
 }
 
 #video-info-top button span {
@@ -422,11 +437,20 @@
     }
 
     /*------------------------------------------------------SPESIFIC COURSE / SINGLE COURSE*/
+    #description-link-and-text {
+        padding: 5px 10px;
+        border-radius: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
     #video-list {
+        margin-top: 10px;
         width: 100%;
     }
 
     #single-course-view {
+        gap: 0;
         width: 95%;
     }
 

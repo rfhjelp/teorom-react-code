@@ -33,19 +33,51 @@
                     },
                     {
                         "title": "Forkunnskaper:\ntallgrupper (heltall (odde- & partall) & desimaltall) & siffer plasser",
-                        "link": "c75CC1QlQ1o"
+                        "link": "c75CC1QlQ1o",
+                        "description": {
+                            "links": [
+                                {
+                                    "name": "Enda en god res. (UDL)",
+                                    "link": "https://udl.no/"
+                                }
+                            ],
+                            "text": "Denne videoen informerer om:\n- Kompetansemål seksjonen går igjennom\n- Legger grunnlaget for all matematikk på ungdomsskolen"
+                        }
                     },
                     {
                         "title": "Definisjon:\nde fire regneoperasjonene",
-                        "link": "c75CC1QlQ1o"
+                        "link": "c75CC1QlQ1o",
+                        "description": {
+                            "links": [
+                                {
+                                    "name": "Enda en god res. (UDL)",
+                                    "link": "https://udl.no/"
+                                }
+                            ]
+                        }
                     },
                     {
                         "title": "Motsatte regneoperasjoner",
-                        "link": "c75CC1QlQ1o"
+                        "link": "c75CC1QlQ1o",
+                        "description": {
+                            "text": "Denne videoen informerer om:\n- Kompetansemål seksjonen går igjennom\n- Legger grunnlaget for all matematikk på ungdomsskolen"
+                        }
                     },
                     {
                         "title": "Potenser, grunntall & eksponenter",
-                        "link": ""
+                        "link": "",
+                        "description": {
+                            "links": [
+                                {
+                                    "name": "Enda en god res. (UDL)",
+                                    "link": "https://udl.no/"
+                                },
+                                {
+                                    "name": "Enda en god res. (UDL)",
+                                    "link": "https://udl.no/"
+                                }
+                            ]
+                        }
                     },
                     {
                         "title": "Parenteser og deres notasjon",
