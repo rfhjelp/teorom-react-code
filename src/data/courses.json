@@ -8,7 +8,7 @@
         "grade": "8. trinn",
         "categories": [
             {
-                "name": "Tallforståelse og tallregning",
+                "name": "Tallforståelse & tallregning",
                 "videos": [
                     {
                         "title": "Oversikt over seksjonen",
@@ -80,7 +80,7 @@
                         }
                     },
                     {
-                        "title": "Parenteser og deres notasjon",
+                        "title": "Parenteser & deres notasjon",
                         "link": ""
                     },
                     {
@@ -88,51 +88,51 @@
                         "link": ""
                     },
                     {
-                        "title": "Regnealgoritmer:\naddisjon (1/4)",
+                        "title": "Regnealgoritmer (1/4):\naddisjon",
                         "link": ""
                     },
                     {
-                        "title": "Regnealgoritmer:\nsubtraksjon (2/4)",
+                        "title": "Regnealgoritmer (2/4):\nsubtraksjon",
                         "link": ""
                     },
                     {
-                        "title": "Regnealgoritmer:\nmultiplikasjon (3/4)",
+                        "title": "Regnealgoritmer (3/4):\nmultiplikasjon",
                         "link": ""
                     },
                     {
-                        "title": "Regnealgoritmer:\ndivisjon (4/4)",
+                        "title": "Regnealgoritmer (4/4):\ndivisjon",
                         "link": ""
                     },
                     {
-                        "title": "Negative tall:\nmultiplikasjon & divisjon (1/3)",
+                        "title": "Negative tall (1/3):\nmultiplikasjon & divisjon",
                         "link": ""
                     },
                     {
-                        "title": "Negative tall:\naddisjon & subtraksjon (2/3)",
+                        "title": "Negative tall (2/3):\naddisjon & subtraksjon",
                         "link": ""
                     },
                     {
-                        "title": "Negative tall:\noversikt (3/3)",
+                        "title": "Negative tall (3/3):\noversikt",
                         "link": ""
                     },
                     {
-                        "title": "Brøk:\nintroduksjon (1/3)",
+                        "title": "Brøk (1/3):\nintroduksjon",
                         "link": ""
                     },
                     {
-                        "title": "Brøk:\naddisjon & subtraksjon (2/3)",
+                        "title": "Brøk (2/3):\naddisjon & subtraksjon",
                         "link": ""
                     },
                     {
-                        "title": "Brøk:\nmultiplikasjon & divisjon (3/3)",
+                        "title": "Brøk (3/3):\nmultiplikasjon & divisjon",
                         "link": ""
                     },
                     {
-                        "title": "Desimaler i regnealgoritmer:\naddisjon & subtraksjon (1/2)",
+                        "title": "Desimaler i regnealgoritmer (1/2):\naddisjon & subtraksjon",
                         "link": ""
                     },
                     {
-                        "title": "Desimaler i regnealgoritmer:\nmultiplikasjon & divisjon (2/2)",
+                        "title": "Desimaler i regnealgoritmer (2/2):\nmultiplikasjon & divisjon",
                         "link": ""
                     },
                     {
@@ -165,23 +165,23 @@
                         "link": ""
                     },
                     {
-                        "title": "Grunnleggende algebra:\naddisjon & subtraksjon (1/3)",
+                        "title": "Grunnleggende algebra (1/3):\naddisjon & subtraksjon",
                         "link": ""
                     },
                     {
-                        "title": "Grunnleggende algebra:\nmultiplikasjon, potenser & divisjon (2/3)",
+                        "title": "Grunnleggende algebra (2/3):\nmultiplikasjon, potenser & divisjon",
                         "link": ""
                     },
                     {
-                        "title": "Grunnleggende algebra:\nforklare algebraiske uttrykk og begreper (3/3)",
+                        "title": "Grunnleggende algebra (3/3):\nforklare algebraiske uttrykk & begreper",
                         "link": ""
                     },
                     {
-                        "title": "Utlede potensreglene:\nmultiplikasjon av potenser med samme grunntall (1/2)",
+                        "title": "Utlede potensreglene (1/2):\nmultiplikasjon av potenser med samme grunntall",
                         "link": ""
                     },
                     {
-                        "title": "Utlede potensreglene:\ndivisjon av potenser med samme grunntall (2/2)",
+                        "title": "Utlede potensreglene (2/2):\ndivisjon av potenser med samme grunntall",
                         "link": ""
                     },
                     {
@@ -210,15 +210,15 @@
                         "link": ""
                     },
                     {
-                        "title": "Løse en likning:\nflytte-bytte (1/3)",
+                        "title": "Løse en likning (1/3):\nflytte-bytte",
                         "link": ""
                     },
                     {
-                        "title": "Løse en likning:\ndele på koeffisient (2/3)",
+                        "title": "Løse en likning (2/3):\ndele på koeffisient",
                         "link": ""
                     },
                     {
-                        "title": "Løse en likning:\nlikninger med brøk (3/3)",
+                        "title": "Løse en likning (3/3):\nlikninger med brøk",
                         "link": ""
                     },
                     {
@@ -226,7 +226,7 @@
                         "link": ""
                     },
                     {
-                        "title": "Tekstoppgaver og likninger",
+                        "title": "Tekstoppgaver & likninger",
                         "link": ""
                     },
                     {
@@ -239,72 +239,71 @@
                 "name": "Geometri",
                 "videos": [
                     {
-                        "title": "",
+                        "title": "Introduksjon:\ngeometri, lengder & benevninger",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Punkter, linjer, stråler & linjestykker",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Relasjoner mellom linjer:\nparallelle & vinkelrette linjer",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Former (1/2):\nkanter, hjørner, vinkler & eksempel (kvadrat & trekant)",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Former (2/2):\nareal, omkrets & eksempel (kvadrat & trekant)",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Vinkelsum i figurer (kjapp video)",
                         "link": ""
                     },
                     {
-                        "title": "Definisjon:\nGeometri, punkter, linjer, linjestykker, lengder, benevninger & vinkler",
+                        "title": "Areal, omkrets & definisjon av former (1/3):\nfirkanter: kvadrat, rektangel, parallellogram, rombe & trapes",
                         "link": ""
                     },
                     {
-                        "title": "Introduksjon",
+                        "title": "Areal, omkrets & definisjon av former (2/3):\nrekanter: vinkel sortering (rett-, stomp- & spissvinklet) & side sortering (likesidet, likebeint skalert trekant)",
                         "link": ""
                     },
                     {
-                        "title": "Introduksjon til former",
+                        "title": "Areal, omkrets & definisjon av former (3/3):\nmangekanter & sammensatte former",
                         "link": ""
                     },
                     {
-                        "title": "Firkanter (kvadrat, rektangel, Parallellogram, rombe, trapes & drage)",
+                        "title": "Omkrets, pi (π) & definisjon av en sirkel",
                         "link": ""
                     },
                     {
-                        "title": "Trekanter (etter vinkler: rett-, spiss og stumpvinklet, etter sider: likesidet, likebeint og ulikesidet trekanter)",
+                        "title": "Areal av en sirkel",
                         "link": ""
                     },
                     {
-                        "title": "Sirkel",
+                        "title": "Den distributive lov bevist med geometri",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Kvadratrot & kvadrattall vist geometrisk",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Figurtall (1/2):\nhva er det (med eksempler)",
                         "link": ""
                     },
                     {
-                        "title": "",
+                        "title": "Figurtall (2/2):\nlag formel til figurmønster",
                         "link": ""
-                    }
-                ]
-            },
-            {
-                "name": "Koordinatsystem",
-                "videos": [
+                    },
                     {
-                        "title": "",
+                        "title": "Likninger brukt i areal, omkrets &figurtall",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utskrivbar PDF:\nRessurs for «Geometri», 8. trinn",
                         "link": ""
                     }
                 ]
@@ -313,7 +312,31 @@
                 "name": "Funksjoner",
                 "videos": [
                     {
-                        "title": "",
+                        "title": "Koordinatsysten:\ndimensjoner/akser, kvadranter, punkter og deres notasjon & origo",
+                        "link": ""
+                    },
+                    {
+                        "title": "Definisjon, funksjonsmaskin, begreper brukt for å beskrive notasjonen & enkle eksempler på bruk av funksjoner",
+                        "link": ""
+                    },
+                    {
+                        "title": "Funksjoner vist grafisk",
+                        "link": ""
+                    },
+                    {
+                        "title": "Definisjonsmengde",
+                        "link": ""
+                    },
+                    {
+                        "title": "Lineære funksjoner:\ndefinisjon, stigningstall & konstantledd",
+                        "link": ""
+                    },
+                    {
+                        "title": "Likninger i funksjoner",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utskrivbar PDF:\nRessurs for «Funksjoner», 8. trinn",
                         "link": ""
                     }
                 ]
@@ -322,16 +345,76 @@
                 "name": "Programmering",
                 "videos": [
                     {
-                        "title": "",
+                        "title": "Logisk tenking og algoritmer i programmering",
+                        "link": ""
+                    },
+                    {
+                        "title": "Python (1/6):\nskrive ut til konsollen (print) & datatyper",
+                        "link": ""
+                    },
+                    {
+                        "title": "Python (2/6):\nspørre om data fra brukeren (input) og matematiske operasjoner i programmering",
+                        "link": ""
+                    },
+                    {
+                        "title": "Python (3/6):\nfunksjoner i programmering (def)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Python (4/6):\nbiblioteket 'math' og hvordan man bruker det (pi & sqrt/kvadratrot)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Python (5/6):\nløkker i programmering (while & for)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Python (6/6):\nfeilsøking i koder",
+                        "link": ""
+                    },
+                    {
+                        "title": "Øvingsoppgaver for å få det til å sitte (inkludert PDF)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Utskrivbar PDF:\nRessurs for «Programmering», 8. trinn",
                         "link": ""
                     }
                 ]
             },
             {
-                "name": "Matematisk kommunikasjon og føring",
+                "name": "Matematisk kommunikasjon & føring",
                 "videos": [
                     {
-                        "title": "",
+                        "title": "Oversikt er viktig, dette er ca. veiledning, ikke en fasitt",
+                        "link": ""
+                    },
+                    {
+                        "title": "Føring på ark/papir (1/3):\nside/oppgave oppsett",
+                        "link": ""
+                    },
+                    {
+                        "title": "Føring på ark/papir (2/3):\nutregning (generelle regnestykker, større regnestykker, brøk, svaret)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Føring på ark/papir (3/3):\nlikninger",
+                        "link": ""
+                    },
+                    {
+                        "title": "Føring i word (1/4):\nside/oppgave oppsett",
+                        "link": ""
+                    },
+                    {
+                        "title": "Føring i word (2/4):\nutregning (generelle regnestykker, større regnestykker, brøk, svaret)",
+                        "link": ""
+                    },
+                    {
+                        "title": "Føring i word (3/4):\nlikninger",
+                        "link": ""
+                    },
+                    {
+                        "title": "Føring i word blandet med ark/papir (4/4):\nkryssreferanse mellom ark/papir og word-dokument",
                         "link": ""
                     }
                 ]
@@ -371,7 +454,7 @@
                         "link": ""
                     },
                     {
-                        "title": "Tallforståelse & tallregning\n(PEMDAS, regneoperasjoner, regnealgoritmer og motsatte regneoperasjoner)",
+                        "title": "Tallforståelse & tallregning\n(PEMDAS, regneoperasjoner, regnealgoritmer & motsatte regneoperasjoner)",
                         "link": ""
                     },
                     {
