@@ -437,53 +437,7 @@
             "scheduled": "2026"
         },
         "grade": "10. trinn",
-        "categories": [
-            {
-                "name": "Repetisjon & eksamen",
-                "videos": [
-                    {
-                        "title": "Hvordan bruke denne seksjonen",
-                        "link": ""
-                    },
-                    {
-                        "title": "Skriftlig eksamen",
-                        "link": ""
-                    },
-                    {
-                        "title": "Muntlig-praktisk eksamen",
-                        "link": ""
-                    },
-                    {
-                        "title": "Tallforståelse & tallregning\n(PEMDAS, regneoperasjoner, regnealgoritmer & motsatte regneoperasjoner)",
-                        "link": ""
-                    },
-                    {
-                        "title": "Tallforståelse & tallregning\n(negative tall, potenser, grunntall, eksponenter)",
-                        "link": ""
-                    },
-                    {
-                        "title": "Tallforståelse & tallregning\n(brøk, prosent, desimaler)",
-                        "link": ""
-                    },
-                    {
-                        "title": "",
-                        "link": ""
-                    },
-                    {
-                        "title": "",
-                        "link": ""
-                    },
-                    {
-                        "title": "",
-                        "link": ""
-                    },
-                    {
-                        "title": "",
-                        "link": ""
-                    }
-                ]
-            }
-        ]
+        "categories": []
     },
     {
         "course": "T-matematikk",
