@@ -113,6 +113,28 @@
     gap: 10px;
 }
 
+#algo-info {
+    width: 100%;
+}
+#algo-info div {
+    width: calc(75% - 18px);
+    justify-self: center;
+}
+#algo-info-toggle {
+    width: calc(75% + 14px);
+    justify-self: center;
+    color: gray;
+    font-size: 0.95em;
+}
+#algo-info-toggle:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+#algo-info-toggle:active {
+    cursor: unset;
+    opacity: 0.5;
+}
+
 #search-table,
 .search-tr th,
 .search-tr td {
@@ -411,11 +433,18 @@
         grid-template-rows: 1fr auto;
         gap: 20px;
     }
+    
+    #description-link-and-text {
+        padding: 5px 10px;
+        border-radius: 25px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
 
     #video-list {
         width: 50%;
         margin: 0 auto;
-        max-height: 550px;
+        height: 550px;
     }
 
     /*------------------------------------------------------OTHER*/
@@ -437,13 +466,6 @@
     }
 
     /*------------------------------------------------------SPESIFIC COURSE / SINGLE COURSE*/
-    #description-link-and-text {
-        padding: 5px 10px;
-        border-radius: 25px;
-        margin-top: 10px;
-        margin-bottom: 10px;
-    }
-
     #video-list {
         margin-top: 10px;
         width: 100%;

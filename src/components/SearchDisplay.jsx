@@ -4,6 +4,7 @@ import { useNavigate } from "react-router-dom";
 const SearchDisplay = (props) => {
     const navigate = useNavigate();
     const searchWord = props.searchWord;
+    const showAmountOfKeywordsMatching = props.matchingWords;
 
     const videos = searchAlgo(searchWord);
 
@@ -21,8 +22,11 @@ const SearchDisplay = (props) => {
                 <td className="search-tr-name">
                     <p>{video.title}</p>
                 </td>
-                <td>{video.category}</td>
+                <td>{video.category} <em className="small-em">(ep. {video.ivideo + 1})</em></td>
                 <td><p>{video.grade}</p></td>
+                {(showAmountOfKeywordsMatching && searchWord.trim().length > 0) &&
+                    <td><p>{video.wordCounter}/{searchWord.trim().split(" ").length}</p></td>
+                }
             </tr>
         )
     });
@@ -39,6 +43,8 @@ const SearchDisplay = (props) => {
                                 <th>Tittel</th>
                                 <th>Kategori</th>
                                 <th id="trinn-th">Nivå (gitt i trinn)</th>
+                                {(showAmountOfKeywordsMatching && searchWord.trim().length > 0) &&
+                                    <th>Video matcher søkeord</th>}
                             </tr>
                         </thead>
                         <tbody>

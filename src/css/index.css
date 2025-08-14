@@ -19,6 +19,9 @@ main {
   background-color: white;
 }
 
+.small-em {
+  font-size: 0.65em;
+}
 
 .anti-select {
   user-select: none;

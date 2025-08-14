@@ -14,17 +14,30 @@ function searchAlgo(searchWord) {
     course.forEach((singleCourse, singleCourse_i) => {
         singleCourse.categories.forEach((category, category_i) => {
             category.videos.forEach((video, video_i) => {
-                let added = false
+                let add = false
+                let wordCounter = 0;
                 wordArray2.forEach(word => {
-                    if (video.title.toLowerCase().includes(word) && !added) {
-                        matchingVideos.push({...video, grade: singleCourse.grade, category: category.name, icategory: category_i, icourse: singleCourse_i, ivideo: video_i});
-                        added = true
+                    if (video.title.toLowerCase().includes(word) && !add) {
+                        add = true
+                        wordCounter = wordCounter + 1
+                    } else if (video.title.toLowerCase().includes(word) && add) {
+                        wordCounter = wordCounter + 1
                     }
                 })
+                if (add) {
+                    matchingVideos.push({...video, grade: singleCourse.grade, category: category.name, icategory: category_i, icourse: singleCourse_i, ivideo: video_i, wordCounter: wordCounter});
+                };
             })
         })
     })
-    // Return results
+    //sorting results
+    if (matchingVideos.length > 1) {
+        matchingVideos.sort((a, b) => {
+            return b.wordCounter - a.wordCounter
+        });
+    }
+
+    // Returning results
     return matchingVideos;
 };
 

@@ -4,7 +4,7 @@ import { useMediaQuery } from "react-responsive";
 import { useState } from "react";
 
 const Description = (props) => {
-  const isMobile = useMediaQuery({ maxWidth: 767 }); //Sant om bredden er MINDRE enn 767 piksler
+  const isMobile = useMediaQuery({ maxWidth: 1227 }); //Sant om bredden er MINDRE enn 767 piksler
   const information = props.information;
   const [showOrNot, setShowOrNot] = useState("Vis")
 
