@@ -299,19 +299,15 @@
                         "link": ""
                     },
                     {
+                        "title": "Funksjoner vist numerisk",
+                        "link": ""
+                    },
+                    {
                         "title": "Funksjoner vist grafisk",
                         "link": ""
                     },
                     {
                         "title": "Definisjonsmengde",
-                        "link": ""
-                    },
-                    {
-                        "title": "Lineære funksjoner:\ndefinisjon, stigningstall & konstantledd",
-                        "link": ""
-                    },
-                    {
-                        "title": "Likninger i funksjoner",
                         "link": ""
                     },
                     {
@@ -430,6 +426,46 @@
                 "name": "Sannsynlighet",
                 "videos": [
                     {
+                        "title": "Kombinatorikk (1/2):\nuavhengige hendelser",
+                        "link": ""
+                    },
+                    {
+                        "title": "Kombinatorikk (2/2):\navhengige hendelser",
+                        "link": ""
+                    },
+                    {
+                        "title": "Deler av sannsynlighet (ungdomsskole nivå)",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
+                        "title": "",
+                        "link": ""
+                    },
+                    {
                         "title": "",
                         "link": ""
                     }
@@ -455,16 +491,24 @@
         "grade": "10. trinn",
         "categories": [
             {
-                "name": "Likningssett",
+                "name": "Funksjoner",
                 "videos": [
                     {
-                        "title": "",
+                        "title": "Lineære funksjoner:\ndefinisjon, stigningstall & konstantledd",
+                        "link": ""
+                    },
+                    {
+                        "title": "Eksponentialfunksjoner:\nkonstant prosentvis endring, vekstfaktor",
+                        "link": ""
+                    },
+                    {
+                        "title": "Likninger i funksjoner",
                         "link": ""
                     }
                 ]
             },
             {
-                "name": "Funksjoner",
+                "name": "Likningssett",
                 "videos": [
                     {
                         "title": "",
