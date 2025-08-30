@@ -1,0 +1,19 @@
+{
+    "course": "FagNavn",
+    "finished": {
+        "status": false,
+        "scheduled": "ÅrEllerUsikkertBindestrekKanTaFlereSkråstrekMangeÅr"
+    },
+    "grade": "TrinnNivå",
+    "categories": [
+        {
+            "name": "NavnPåKategori",
+            "videos": [
+                {
+                    "title": "TittelPåVideo",
+                    "link": "LinkYoutubeIDTilVideo"
+                }
+            ]
+        }
+    ]
+}

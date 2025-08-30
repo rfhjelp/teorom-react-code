@@ -1,5 +1,5 @@
 import { useParams, useNavigate } from "react-router-dom";
-import courses from "./../data/courses.json"
+import courses from "./../data/collectedData"
 import { useEffect } from "react";
 
 const RedirectToVideoWithID = () => {

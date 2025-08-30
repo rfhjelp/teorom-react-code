@@ -1,0 +1,10 @@
+{
+    "course": "Matematikk 10. trinn",
+    "finished": {
+        "status": false,
+        "scheduled": "2026"
+    },
+    "grade": "10. trinn",
+    "categories": [
+    ]
+}

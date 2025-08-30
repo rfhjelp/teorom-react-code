@@ -1,4 +1,4 @@
-import course from "./../data/courses.json"
+import course from "./../data/collectedData"
 
 function searchAlgo(searchWord) {
     // Formating

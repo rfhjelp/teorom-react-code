@@ -1,17 +1,27 @@
 [
     {
-        course
-        finished
-        grade
-        course_id
-        categories: [
+        course (string, fag)
+        finished {
+            status (boolean, if all curriculum added: true, otherwise: false)
+            scheduled (string, "year", "year1-year2" or "Ussikkert - kan ta flere/mange år")
+        }
+        grade (string, example: "8. trinn", "vg1")
+        categories [
             {
-                name
-                videos: [
+                name (string, section of videos like "algebra")
+                videos [
                     {
-                        title
-                        video_id
-                        link
+                        title (string, \n, what the video covers)
+                        link (string, youtube vid id, can be empty)
+                        description (not needed) {
+                            text (string, \n, about the video)
+                            link [
+                                {
+                                    name (string, display of link)
+                                    link (string, actual link)
+                                }
+                            ]
+                        }
                     }
                 ]
             }

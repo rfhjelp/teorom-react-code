@@ -1,4 +1,4 @@
-import courses from "./../data/courses.json"
+import courses from "./../data/collectedData"
 import { useNavigate } from "react-router-dom";
 
 const CoursesOverview = () => {

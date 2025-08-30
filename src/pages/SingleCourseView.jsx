@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 import VideoDisplay from "../components/spesificCourse/VideoDisplay";
 import CourseVideoList from "../components/spesificCourse/CourseVideoList";
-import courses from "./../data/courses.json"
+import courses from "./../data/collectedData"
 import NotFound from "./NotFound";
 
 const SingleCourseView = () => {

@@ -18,12 +18,14 @@ const CourseVideoList = (props) => {
     ));
 
     return (
-        <div id="video-list" className="anti-select">
+        <div id="episodes-course-div">
             <div>
                 <h1>{course.course}</h1>
             </div>
-            <div style={{marginTop: "15px"}}>
-                {categoriesMapped}
+            <div id="video-list" className="anti-select">
+                <div style={{marginTop: "15px"}}>
+                    {categoriesMapped}
+                </div>
             </div>
         </div>
     )
